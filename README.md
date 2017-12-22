@@ -1,6 +1,7 @@
 # libfilebot
 
-Returns the `net.filebot.filename` property of a file.
+Returns the `net.filebot.filename` property of a file without binary python package dependencies.
+It instead uses system-provided binaries.
 
 #### Currently supports:
 
